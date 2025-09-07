@@ -1,1 +1,2 @@
 # RoninSC-SbusControl
+RoninSCをSBUSを使ってジョイスティックで有線操作するためのプログラムです
